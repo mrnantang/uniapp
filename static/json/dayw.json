@@ -1,0 +1,127 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "songId": "2",
+        "songName": "冬奥有我",
+        "video": [
+            {
+                "mp3": [
+                    {
+                        "name": "原声",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_song.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_banzou.mp3"
+                    }
+                ],
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_1.jpg",
+                    "123": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_2.jpg",
+                    "282": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_3.jpg"
+                }
+            }
+        ],
+        "audio": [
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_1.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_banzou_1.mp3"
+                    }
+                ],
+                "name": "第一句",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_1.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_2.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_banzou_2.mp3"
+                    }
+                ],
+                "name": "第二句",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_2.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_3.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_banzou_3.mp3"
+                    }
+                ],
+                "name": "第三句",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_3.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_4.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_banzou_4.mp3"
+                    }
+                ],
+                "name": "第四句",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_jiao_4.jpg"
+                }
+            }
+        ],
+        "audio2": [
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_1.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_banzou_1.mp3"
+                    }
+                ],
+                "name": "第一段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_1.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_2.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_banzou_2.mp3"
+                    }
+                ],
+                "name": "第二段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/dayw/dayw_fu_2.jpg"
+                }
+            }
+        ]
+    }
+}

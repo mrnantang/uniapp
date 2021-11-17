@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 2247427 */
+  src: url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.eot');
+  src: url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_2247427_cy4adfb6o7k.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon {
+  font-family: "iconfont" !important;
+  font-size: 32px;
+  color: #2867ce;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiala:before {
+  content: "\e611";
+}
+
+.icon-shang:before {
+  content: "\e600";
+}
+
+.icon-bofang:before {
+  content: "\e601";
+}
+
+.icon-zanting:before {
+  content: "\e60c";
+}
+

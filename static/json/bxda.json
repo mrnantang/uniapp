@@ -1,0 +1,110 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "songId": "3",
+        "songName": "冰雪冬奥",
+        "video": [
+            {
+                "mp3": [
+                    {
+                        "name": "原声",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_song.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_banzou.mp3"
+                    }
+                ],
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_1.jpg",
+                    "102": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_2.jpg"
+                }
+            }
+        ],
+        "audio": [
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_1.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_banzou_1.mp3"
+                    }
+                ],
+                "name": "第一段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_1.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_3.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_banzou_3.mp3"
+                    }
+                ],
+                "name": "第三段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_3.jpg"
+                }
+            }
+        ],
+        "audio2": [
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_2.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_banzou_2.mp3"
+                    }
+                ],
+                "name": "第二段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_2.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_4.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_banzou_4.mp3"
+                    }
+                ],
+                "name": "第四段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_4.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "学唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_5.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_banzou_5.mp3"
+                    }
+                ],
+                "name": "第五段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/bxda/bxda_jiao_5.jpg"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "songId": "1",
+        "songName": "燃烧的雪花",
+        "video": [
+            {
+                "mp3": [
+                    {
+                        "name": "示范",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_song.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_banzou.mp3"
+                    }
+                ],
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_1.jpg",
+                    "83": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_2.jpg",
+                    "180": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_3.jpg"
+                }
+            }
+        ],
+        "audio": [
+            {
+                "mp3": [
+                    {
+                        "name": "教唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_1.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_banzou_1.mp3"
+                    }
+                ],
+                "name": "第一段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_1.jpg"
+                }
+            },
+            {
+                "mp3": [
+                    {
+                        "name": "教唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_2.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_banzou_2.mp3"
+                    }
+                ],
+                "name": "第二段",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_2.jpg"
+                }
+            }
+        ],
+        "audio2": [
+            {
+                "mp3": [
+                    {
+                        "name": "教唱",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_fu.mp3"
+                    },
+                    {
+                        "name": "伴奏",
+                        "url": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_fu_banzou.mp3"
+                    }
+                ],
+                "name": "副歌",
+                "jump": {
+                    "0": "https://scxhlz-1301325388.cos.ap-singapore.myqcloud.com/dongaohui2022/rsdxh/rsdxh_jiao_fu.jpg"
+                }
+            }
+        ]
+    }
+}
